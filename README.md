@@ -22,5 +22,7 @@ To run the app,
 ```shell
 $ ./SantoorBot
 ```
+Now on your Mac, inside Audio MIDI Setup, you should see "Santoor Bot" appearing. Connect it to the session and it will receive MIDI messages when you send MIDI to this session from Logic Pro X!
 
+### Parameters
 All the constant parameters are defined in ```include/Defines.h``` file.
